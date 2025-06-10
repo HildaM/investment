@@ -88,7 +88,7 @@ from_mail = "44123@qq.net"
 #邮件发送者密码
 from_mail_password = "123123"
 #邮件服务器地址
-mail_server = "smtp.exmail.qq.com"
+mail_server = "smtp.qq.com"
 #邮件服务器端口
 mail_server_port = 465
 ```
