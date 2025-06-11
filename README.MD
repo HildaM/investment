@@ -2,6 +2,10 @@
 
 一个基于 AI 的智能投资Agent，专注于 A 股和美股的实时市场分析。系统通过爬取多个数据源，结合 ReAct模式反向调用爬虫进行深度分析，生成专业的市场分析报告。
 
+### 效果预览
+<img align="center" src="https://github.com/8treenet/investment/blob/master/img/1.png?raw=true">
+<img align="center" src="https://github.com/8treenet/investment/blob/master/img/2.png?raw=true">
+
 ## 功能特点
 
 ### 1. 美股市场分析 (Yahoo Finance)
@@ -92,10 +96,6 @@ mail_server = "smtp.qq.com"
 #邮件服务器端口
 mail_server_port = 465
 ```
-
-### 效果
-<img align="center" src="https://github.com/8treenet/investment/blob/master/img/1.png?raw=true">
-<img align="center" src="https://github.com/8treenet/investment/blob/master/img/2.png?raw=true">
 
 ## 二次开发
 
